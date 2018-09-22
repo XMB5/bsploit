@@ -2,7 +2,5 @@
 
 Browser Exploits
 
-https://xmb5.github.io/bsploit/
-
-- [many-hang](many-hang/hang.html)
-- [safari-ios-panic](safari-ios-panic/crash.html)
+- [many-hang](many-hang/hang.html) hangs many browsers, may hang system too
+- [safari-ios-panic](safari-ios-panic/crash.html) panics or resprings iOS
